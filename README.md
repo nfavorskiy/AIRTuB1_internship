@@ -1,4 +1,4 @@
-# AIRTuB1-internship
+# AIRTuB1_internship
 Repository for a AIRTuB 1 follow-up internship
 
 ## 🚀 Usage
